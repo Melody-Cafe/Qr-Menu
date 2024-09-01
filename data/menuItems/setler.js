@@ -44,7 +44,7 @@ export const setler = [
     
     {
         id :7,
-        title : "CocaCola, Cipsi, qəlyan",
+        title : "CocaCola, Cipsi, Qəlyan",
         gram : "",
         price : 25 
     },

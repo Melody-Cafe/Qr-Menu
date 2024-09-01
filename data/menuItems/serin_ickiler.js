@@ -9,8 +9,8 @@ export const serin_ickiler = [
     
     {
         id : 2,
-        title : "Coca Cola",
-        gram : "0.33",
+        title : "Coca Cola (0.33l)",
+        gram : "",
         price : 3
     },
     
@@ -30,15 +30,15 @@ export const serin_ickiler = [
     
     {
         id : 5,
-        title : "Fanta",
-        gram : "0.33",
+        title : "Fanta (0.33l)",
+        gram : "",
         price : 3
     },
     
     {
         id : 6,
-        title : "Fusetea",
-        gram : "0.33",
+        title : "Fusetea (0.33l)",
+        gram : "",
         price : 3
     },
     
@@ -65,8 +65,8 @@ export const serin_ickiler = [
     
     {
         id : 10,
-        title : "Lyubımıy",
-        gram : "200 Ml",
+        title : "Lyubımıy (0.2l)",
+        gram : "",
         price : 1.5
     },
     
@@ -93,29 +93,29 @@ export const serin_ickiler = [
     
     {
         id : 14,
-        title : "Natura 1 LT",
+        title : "Natura (1l)",
         gram : "",
         price : 5
     },
     
     {
         id : 15,
-        title : "RedBull 250",
+        title : "RedBull (0.250l)",
         gram : "",
         price : 7
     },
     
     {
         id : 16,
-        title : "RedBull 355",
+        title : "RedBull (0.350l)",
         gram : "",
         price : 8.5
     },
     
     {
         id : 17,
-        title : "Sandora",
-        gram : "1 LT",
+        title : "Sandora (1l)",
+        gram : "",
         price : 6
     },
     
@@ -135,50 +135,50 @@ export const serin_ickiler = [
     
     {
         id : 20,
-        title : "Sırma Qazlı",
-        gram : "0.2",
+        title : "Sırma Qazlı (0.2l)",
+        gram : "",
         price : 3
     },
     
     {
         id : 21,
-        title : "Sırma Qazlı",
-        gram : "0.75",
+        title : "Sırma Qazlı (0.75l)",
+        gram : "",
         price : 5
     },
     
     {
         id : 22,
-        title : "Sırma Qazsız",
-        gram : "0.2",
+        title : "Sırma Qazsız (0.2l)",
+        gram : "",
         price : 3
     },
     
     {
         id : 23,
-        title : "Sırma Qazsız",
-        gram : "0.75",
+        title : "Sırma Qazsız (0.75l)",
+        gram : "",
         price : 5
     },
     
     {
         id : 24,
-        title : "Sprite",
-        gram : "0.33",
+        title : "Sprite (0.33l)",
+        gram : "",
         price : 3
     },
     
     {
         id : 25,
-        title : "Swell",
-        gram : "0.25",
+        title : "Swell (0.25l)",
+        gram : "",
         price : 4
     },
     
     {
         id : 26,
-        title : "Swell",
-        gram : "0.75",
+        title : "Swell (0.75l)",
+        gram : "",
         price : 6
     },
     
