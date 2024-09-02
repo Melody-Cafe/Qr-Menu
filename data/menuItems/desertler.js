@@ -261,28 +261,28 @@ export const desertler = [
     
     {
         id : 38,
-        title : "Südlü paxlava",
+        title : "Südlü paxlava (3 əd)",
         gram : "(3 əd)",
         price : 6 
     },
     
     {
         id : 39,
-        title : "Südlü paxlava",
+        title : "Südlü paxlava (ədəd ilə)",
         gram : "(ədəd ilə)",
         price : 1.5 
     },
     
     {
         id : 40,
-        title : "Türk paxlavası",
+        title : "Türk paxlavası (4 əd)",
         gram : "(4 ədəd ilə)",
         price : 7 
     },
     
     {
         id : 41,
-        title : "Türk paxlavası",
+        title : "Türk paxlavası (ədəd ilə)",
         gram : "(ədəd ilə)",
         price : 1.5 
     },

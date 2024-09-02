@@ -1,19 +1,5 @@
 export const sac_yemekleri = [
-
-    {
-        id : 1,
-        title : "Tuşonka sadə",
-        gram : "",
-        price : 10 
-    },
-    
-    {
-        id : 2,
-        title : "Can əti tərəvəzlə sadə",
-        gram : "",
-        price : 30 
-    },
-    
+        
     {
         id : 3,
         title : "Çoban qovurması sacda",
@@ -33,13 +19,6 @@ export const sac_yemekleri = [
         title : "Kınd çolpası sacda",
         gram : "",
         price : 20 
-    },
-    
-    {
-        id : 6,
-        title : "Qarışıq ət tərəvəzlə",
-        gram : "",
-        price : 24 
     },
     
     {
@@ -91,12 +70,7 @@ export const sac_yemekleri = [
         price : 22 
     },
     
-    {
-        id : 14,
-        title : "Tuşonka kartof ilə",
-        gram : "",
-        price : 12 
-    }
+
 
 ]
 

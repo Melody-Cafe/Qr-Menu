@@ -15,6 +15,7 @@ import {soyuq_qelyanalti} from './menuItems/soyuq_qelyanalti.js'
 import {spirtli_ickiler} from './menuItems/spirtli_icki.js'
 import {suse_piveler} from './menuItems/suse_piveler.js'
 import {viskiler} from './menuItems/viskiler.js'
+import { et_yemekleri } from './menuItems/et_yemekleri.js'
 
 export const structure = [
 
@@ -41,7 +42,11 @@ export const structure = [
         label : "Sac Yeməklərİ",
         data : sac_yemekleri
     },
-
+    {
+        row : 4,
+        label : "Ət Yeməklərİ",
+        data : et_yemekleri
+    },
     {
         row : 5,
         label : "Balıq Məhsulları",
