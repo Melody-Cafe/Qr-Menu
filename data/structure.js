@@ -17,87 +17,113 @@ import {suse_piveler} from './menuItems/suse_piveler.js'
 import {viskiler} from './menuItems/viskiler.js'
 
 export const structure = [
+
     {
         row : 1,
-        label : "Pİvə Məzələrİ",
-        data : pive_mezeleri
-    },
-    {
-        row : 2,
-        label : "Balıq Məhsulları",
-        data : baliq_mehsullari
-    },
-    {
-        row : 3,
-        label : "Bİznes Lunch",
-        data : biznes_lunch
-    },
-    {
-        row : 4,
-        label : "Desertlər",
-        data : desertler
-    },
-    {
-        row : 5,
-        label : "İstİ İçkİlər",
-        data : isti_ickiler
-    },
-    {
-        row : 6,
-        label : "Pİvə Çəllək",
-        data : pive_cellek
-    },
-    {
-        row : 7,
-        label : "Qarnİrlər",
-        data : qarnirler
-    },
-    {
-        row : 8,
-        label : "Qəlyan",
-        data : qelyan
-    },
-    {
-        row : 9,
-        label : "Sac Yeməklərİ",
-        data : sac_yemekleri
-    },
-    {
-        row : 10,
-        label : "Salatlar",
-        data : serablar
-    },
-    {
-        row : 11,
-        label : "Sərİn İçkİlər",
-        data : serin_ickiler
-    },
-    {
-        row : 13,
-        label : "Setlər",
-        data : setler
-    },
-    {
-        row : 14,
         label : "Soyuq qəlyanaltı",
         data : soyuq_qelyanalti
     },
+
     {
-        row : 15,
+        row : 2,
+        label : "Salatlar",
+        data : salatlar
+    },
+
+    {
+        row : 3,
+        label : "Qarnİrlər",
+        data : qarnirler
+    },
+
+    {
+        row : 4,
+        label : "Sac Yeməklərİ",
+        data : sac_yemekleri
+    },
+
+    {
+        row : 5,
+        label : "Balıq Məhsulları",
+        data : baliq_mehsullari
+    },
+
+    {
+        row : 6,
+        label : "Bİznes Lunch",
+        data : biznes_lunch
+    },
+
+    {
+        row : 7,
+        label : "Desertlər",
+        data : desertler
+    },
+
+    {
+        row : 8,
+        label : "İstİ İçkİlər",
+        data : isti_ickiler
+    },
+
+    {
+        row : 9,
+        label : "Sərİn İçkİlər",
+        data : serin_ickiler
+    },
+
+    {
+        row : 10,
         label : "Spİrtlİ İçkİlər",
         data : spirtli_ickiler
     },
+
     {
-        row : 16,
+        row : 11,
+        label : "Şərablar",
+        data : serablar
+    },
+
+    {
+        row : 12,
         label : "Şüşə Pİvələr",
         data : suse_piveler
     },
+
     {
-        row : 17,
+        row : 13,
+        label : "Pİvə Çəllək",
+        data : pive_cellek
+    },
+    
+    {
+        row : 14,
+        label : "Pİvə Məzələrİ",
+        data : pive_mezeleri
+    },
+    
+    {
+        row : 15,
         label : "Vİskİlər",
         data : viskiler
-    }
+    },
+    
+    {
+        row : 16,
+        label : "Qəlyan",
+        data : qelyan
+    },
+        
+    {
+        row : 17,
+        label : "Setlər",
+        data : setler
+    },
+        
+    
 ]
+
+structure.sort((a,b) => a.row - b.row);
 
 
 
