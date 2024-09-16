@@ -1,12 +1,4 @@
 export const biznes_lunch = [
-
-    {
-        id : 1,
-        title : "Biznez Lunch",
-        gram : "",
-        price : 6.5
-    },
-    
     {
         id : 2,
         title : "Burger toyuq sadə",
@@ -19,13 +11,6 @@ export const biznes_lunch = [
         title : "Burgern ət sadə",
         gram : "",
         price : 7.5
-    },
-    
-    {
-        id : 4,
-        title : "Can əti",
-        gram : "",
-        price : 9
     },
     
     {
