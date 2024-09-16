@@ -55,7 +55,7 @@ export const structure = [
 
     {
         row : 6,
-        label : "Bİznes Lunch",
+        label : "Burgerlər",
         data : biznes_lunch
     },
 
