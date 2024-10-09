@@ -1,131 +1,132 @@
-import {pive_mezeleri} from './menuItems/pive_mezeleri.js'
-import {baliq_mehsullari} from './menuItems/baliq_mehsullari.js'
-import {biznes_lunch} from './menuItems/biznes_lunch.js'
-import {desertler} from './menuItems/desertler.js'
-import {isti_ickiler} from './menuItems/isti_ickiler.js'
-import {pive_cellek} from './menuItems/pive_cellek.js'
-import {qarnirler} from './menuItems/qarnirler.js'
-import {qelyan} from './menuItems/qelyan.js'
-import {sac_yemekleri} from './menuItems/sac_yemekleri.js'
-import {salatlar} from './menuItems/salatlar.js'
-import {serablar} from './menuItems/serablar.js'
-import {serin_ickiler} from './menuItems/serin_ickiler.js'
-import {setler} from './menuItems/setler.js'
-import {soyuq_qelyanalti} from './menuItems/soyuq_qelyanalti.js'
-import {spirtli_ickiler} from './menuItems/spirtli_icki.js'
-import {suse_piveler} from './menuItems/suse_piveler.js'
-import {viskiler} from './menuItems/viskiler.js'
-import { et_yemekleri } from './menuItems/et_yemekleri.js'
+import { biznez_lunch } from "./menuItems/biznez_lunch.js";
+import { desertler } from "./menuItems/desertler.js";
+import { isti_ickiler } from "./menuItems/isti_ickiler.js";
+import { isti_qelyanalti_pive_ile } from "./menuItems/isti_qelyanalti_pive_ile.js";
+import { isti_yemekler } from "./menuItems/isti_yemekler.js";
+import { murebbeler } from "./menuItems/murebbeler.js";
+import { pive_cellek } from "./menuItems/pive_cellek.js";
+import { pive_qelyanaltilari } from "./menuItems/pive_qelyanaltilari.js";
+import { qarnirler } from "./menuItems/qarnirler.js";
+import { qelyanlar } from "./menuItems/qelyanlar.js";
+import { salatlar } from "./menuItems/salatlar.js";
+import { serablar } from "./menuItems/serablar.js";
+import { serin_ickiler } from "./menuItems/serin_ickiler.js";
+import { setler } from "./menuItems/setler.js";
+import { souslar } from "./menuItems/souslar.js";
+import { spirtli_ickiler } from "./menuItems/spirtli_ickiler.js";
+import { suse_piveler } from "./menuItems/suse_piveler.js";
+import { viskiler } from "./menuItems/viskiler.js";
 
 export const structure = [
 
-    {
-        row : 1,
-        label : "Soyuq qəlyanaltı",
-        data : soyuq_qelyanalti
-    },
+  {
+    row: 1,
+    label: "Spİrtlİ İçkİlər",
+    data: spirtli_ickiler
+  },
 
-    {
-        row : 2,
-        label : "Salatlar",
-        data : salatlar
-    },
+  {
+    row: 2,
+    label: "Şərablar",
+    data: serablar
+  },
 
-    {
-        row : 3,
-        label : "Qarnİrlər",
-        data : qarnirler
-    },
+  {
+    row: 3,
+    label: "İstİ İçkİlər",
+    data: isti_ickiler
+  },
 
-    {
-        row : 4,
-        label : "Sac Yeməklərİ",
-        data : sac_yemekleri
-    },
-    {
-        row : 4,
-        label : "Ət Yeməklərİ",
-        data : et_yemekleri
-    },
-    {
-        row : 5,
-        label : "Balıq Məhsulları",
-        data : baliq_mehsullari
-    },
+  {
+    row: 4,
+    label: "Pİvə Çəllək",
+    data: pive_cellek
+  },
 
-    {
-        row : 6,
-        label : "Burgerlər",
-        data : biznes_lunch
-    },
+  {
+    row: 5,
+    label: "Pİvə Qəlyanaltİlarİ",
+    data: pive_qelyanaltilari
+  },
 
-    {
-        row : 7,
-        label : "Desertlər",
-        data : desertler
-    },
+  {
+    row: 6,
+    label: "İstİ Qəlyanaltı Pİvə İlə",
+    data: isti_qelyanalti_pive_ile
+  },
 
-    {
-        row : 8,
-        label : "İstİ İçkİlər",
-        data : isti_ickiler
-    },
+  {
+    row: 7,
+    label: "Bİznes Lunch",
+    data: biznez_lunch
+  },
 
-    {
-        row : 9,
-        label : "Sərİn İçkİlər",
-        data : serin_ickiler
-    },
+  {
+    row: 8,
+    label: "Salatlar",
+    data: salatlar
+  },
 
-    {
-        row : 10,
-        label : "Spİrtlİ İçkİlər",
-        data : spirtli_ickiler
-    },
+  {
+    row: 9,
+    label: "Şüşə Pİvələr",
+    data: suse_piveler
+  },
 
-    {
-        row : 11,
-        label : "Şərablar",
-        data : serablar
-    },
+  {
+    row: 10,
+    label: "Qarnİrlər",
+    data: qarnirler
+  },
 
-    {
-        row : 12,
-        label : "Şüşə Pİvələr",
-        data : suse_piveler
-    },
+  {
+    row: 11,
+    label: "Setlər",
+    data: setler
+  },
 
-    {
-        row : 13,
-        label : "Pİvə Çəllək",
-        data : pive_cellek
-    },
-    
-    {
-        row : 14,
-        label : "Pİvə Məzələrİ",
-        data : pive_mezeleri
-    },
-    
-    {
-        row : 15,
-        label : "Vİskİlər",
-        data : viskiler
-    },
-    
-    {
-        row : 16,
-        label : "Qəlyan",
-        data : qelyan
-    },
-        
-    {
-        row : 17,
-        label : "Setlər",
-        data : setler
-    },
-        
-    
+  {
+    row: 12,
+    label: "Vİskİlər",
+    data: viskiler
+  },
+
+  {
+    row: 13,
+    label: "Qəlyanlar",
+    data: qelyanlar
+  },
+
+  {
+    row: 14,
+    label: "İstİ Yeməklər",
+    data: isti_yemekler
+  },
+
+  {
+    row: 15,
+    label: "Souslar",
+    data: souslar
+  },
+
+  {
+    row: 16,
+    label: "Sərİn İçkİlər",
+    data: serin_ickiler
+  },
+
+  {
+    row: 17,
+    label: "Mürəbbələr",
+    data: murebbeler
+  },
+
+  {
+    row: 18,
+    label: "Desertlər",
+    data: desertler
+  },
+
 ]
 
 structure.sort((a,b) => a.row - b.row);
@@ -141,7 +142,12 @@ for(let i =0; i<structure.length; i++){
     structure[i].data.map((item)=>{
         listData+= `
         <div class="price-food-part">
-        <p class="food-name">${item.title}</p>
+        
+        <p class="food-name">
+            ${item.title}
+            <span>${item.gram} </span>
+        </p>
+
         <p class="food-price">${item.price} azn</p>
     </div>`
     })
@@ -183,4 +189,3 @@ function removeSpaces(str) {
 }
 
 menuList.innerHTML = menuListData;
-
