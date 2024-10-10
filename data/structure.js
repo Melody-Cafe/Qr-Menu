@@ -3,6 +3,7 @@ import { desertler } from "./menuItems/desertler.js";
 import { isti_ickiler } from "./menuItems/isti_ickiler.js";
 import { isti_qelyanalti_pive_ile } from "./menuItems/isti_qelyanalti_pive_ile.js";
 import { isti_yemekler } from "./menuItems/isti_yemekler.js";
+import { kokteyl_shot } from "./menuItems/kokteyl_shot.js";
 import { murebbeler } from "./menuItems/murebbeler.js";
 import { pive_cellek } from "./menuItems/pive_cellek.js";
 import { pive_qelyanaltilari } from "./menuItems/pive_qelyanaltilari.js";
@@ -125,6 +126,12 @@ export const structure = [
     row: 18,
     label: "Desertlər",
     data: desertler
+  },
+
+  {
+    row: 19,
+    label: "Kokteyl və Shot",
+    data: kokteyl_shot
   },
 
 ]
