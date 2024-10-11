@@ -67,14 +67,14 @@ export const isti_yemekler = [
         id: 10,
         title: "Qaymaqlı ət",
         gram: "",
-        price: ""
+        price: 15.00
     },
     
     {
         id: 11,
         title: "Qaymaqlı toyuq",
         gram: "",
-        price: ""
+        price: 12.00
     },
     
     {
