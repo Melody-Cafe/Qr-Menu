@@ -43,7 +43,7 @@ export const pive_qelyanaltilari = [
     },
     {
         id: 8,
-        title: "Femi",
+        title: "Fimi",
         gram: "",
         price: 5.5
     },
