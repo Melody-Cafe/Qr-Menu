@@ -9,7 +9,7 @@ export const desertler = [
         id: 2,
         title: "Kişmiş",
         gram: "",
-        price: 5
+        price: 6
     },
     {
         id: 3,
@@ -39,7 +39,7 @@ export const desertler = [
         id: 7,
         title: "Qara şokolad",
         gram: "",
-        price: 4
+        price: 6
     },
     {
         id: 8,

@@ -38,21 +38,21 @@ export const isti_qelyanalti_pive_ile = [
         id: 6,
         title: "Göbələk Cipsi",
         gram: "",
-        price: 5
+        price: 6
     },
 
     {
         id: 7,
         title: "Göbələk papaqları",
         gram: "",
-        price: 5
+        price: 6
     },
 
     {
         id: 8,
         title: "Gürzə qızardılmış",
         gram: "",
-        price: 5
+        price: 6
     },
 
     {
@@ -68,26 +68,33 @@ export const isti_qelyanalti_pive_ile = [
         gram: "",
         price: 8
     },
+    
+    {
+        id: 10,
+        title: "Kilkə Panko",
+        gram: "",
+        price: 6
+    },
 
     {
         id: 11,
         title: "Krakov kolbasa",
         gram: "",
-        price: 5
+        price: 6
     },
 
     {
         id: 12,
         title: "Krakov Tomatda",
         gram: "",
-        price: 6
+        price: 7
     },
 
     {
         id: 13,
         title: "Krevetka Tempura",
         gram: "",
-        price: 7
+        price: 12
     },
 
     {
@@ -108,7 +115,7 @@ export const isti_qelyanalti_pive_ile = [
         id: 16,
         title: "Pendir Çubuqları",
         gram: "",
-        price: 4
+        price: 6
     },
 
     {
@@ -136,7 +143,7 @@ export const isti_qelyanalti_pive_ile = [
         id: 20,
         title: "Pətənə zoğal",
         gram: "",
-        price: 5
+        price: 6
     },
 
     {
@@ -150,7 +157,7 @@ export const isti_qelyanalti_pive_ile = [
         id: 22,
         title: "Qrenki Pendirli",
         gram: "",
-        price: 5
+        price: 7
     },
 
     {
@@ -178,14 +185,14 @@ export const isti_qelyanalti_pive_ile = [
         id: 26,
         title: "Toyuq Popkorn",
         gram: "",
-        price: 5
+        price: 6
     },
 
     {
         id: 27,
         title: "Düşbərə qızardılmış",
         gram: "",
-        price: 4
+        price: 5
     },
 
     {
@@ -199,7 +206,7 @@ export const isti_qelyanalti_pive_ile = [
         id: 29,
         title: "Qizardilmiş Gürcü xəngəli 1əd",
         gram: "",
-        price: 1.3
+        price: 1.1
     },
 
     {
@@ -227,7 +234,7 @@ export const isti_qelyanalti_pive_ile = [
         id: 33,
         title: "Manqalüstü qızartma",
         gram: "",
-        price: 4
+        price: 5
     },
 
     {
@@ -249,5 +256,12 @@ export const isti_qelyanalti_pive_ile = [
         title: "Manqalüstü soyutması",
         gram: "",
         price: 4
-    }
+    },
+    
+    {
+        id: 37,
+        title: "Soyutma kartof",
+        gram: "",
+        price: 1
+    },
 ];

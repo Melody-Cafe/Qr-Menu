@@ -53,7 +53,7 @@ export const isti_yemekler = [
         id: 8,
         title: "Sac kənd çolpası",
         gram: "",
-        price: 21.99
+        price: 25
     },
     
     {

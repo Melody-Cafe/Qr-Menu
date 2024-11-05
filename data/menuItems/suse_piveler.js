@@ -15,7 +15,7 @@ export const suse_piveler = [
         id: 3,
         title: "Efes Zero",
         gram: "0.33 LT",
-        price: 4
+        price: 5
     },
     {
         id: 4,
@@ -93,7 +93,7 @@ export const suse_piveler = [
         id: 16,
         title: "Jaqermaster",
         gram: "0.50 LT",
-        price: 6
+        price: 7
     },
     {
         id: 17,
